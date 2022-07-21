@@ -1,0 +1,7 @@
+torch
+torchvision
+wandb
+numpy
+imgaug
+scikit-learn
+pil
