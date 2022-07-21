@@ -1,3 +1,4 @@
 # Решение
 
-![alt text](https://github.com/MACderRu/AllRussianMIPTtask/blob/master/diagrams/resnet50_mipt.pdf?raw=truei)
+
+<embed src="https://github.com/MACderRu/AllRussianMIPTtask/blob/master/diagrams/resnet50_mipt.pd" type="application/pdf">
